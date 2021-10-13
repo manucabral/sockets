@@ -7,6 +7,7 @@ Comunicación de datos en diferentes lenguajes de programación mediante el uso 
 - Python
 - Javascript
 - Ruby
+- Lua
 
 ## Uso
 El repositorio contiene dos carpetas donde estan almacenados los clientes y servidores codificados en diferentes lenguajes de programación, para que experimentes el proceso de conexión necesitas ejecutar un servidor en una dirección y después conectar un cliente a dicha dirección.
